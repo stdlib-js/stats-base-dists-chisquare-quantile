@@ -30,10 +30,14 @@ The [quantile function][quantile-function] for a [chi-squared][chisquare-distrib
 
 <!-- <equation class="equation" label="eq:chisquared_quantile_function" align="center" raw="Q(p; k) = 2 \cdot P^{-1}( p, k/2 )" alt="Quantile function for a chi-squared distribution."> -->
 
-<div class="equation" align="center" data-raw-text="Q(p; k) = 2 \cdot P^{-1}( p, k/2 )" data-equation="eq:chisquared_quantile_function">
+```math
+Q(p; k) = 2 \cdot P^{-1}( p, k/2 )
+```
+
+<!-- <div class="equation" align="center" data-raw-text="Q(p; k) = 2 \cdot P^{-1}( p, k/2 )" data-equation="eq:chisquared_quantile_function">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/chisquare/quantile/docs/img/equation_chisquared_quantile_function.svg" alt="Quantile function for a chi-squared distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -227,7 +231,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
