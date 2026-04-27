@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-31)
+## Unreleased (2026-04-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`31b9282`](https://github.com/stdlib-js/stdlib/commit/31b92826dc9908a24cedf35e7e63592ce9d6cd69) - **docs:** propagate equation-label / SVG copy-paste fixes across `stats/base/dists/*` [(#11799)](https://github.com/stdlib-js/stdlib/pull/11799) _(by Philipp Burckhardt)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   Vishal Gaikwad
 
 </section>
