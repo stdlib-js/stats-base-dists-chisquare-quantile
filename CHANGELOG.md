@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-10-02)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5badd4b`](https://github.com/stdlib-js/stdlib/commit/5badd4bfaf697543f86aad8f3aa2838354952086) - **test:** migrate `stats/base/dists/chisquare/quantile` to ULP-based assertions [(#15801)](https://github.com/stdlib-js/stdlib/pull/15801) _(by Athan Reines)_
 -   [`31b9282`](https://github.com/stdlib-js/stdlib/commit/31b92826dc9908a24cedf35e7e63592ce9d6cd69) - **docs:** propagate equation-label / SVG copy-paste fixes across `stats/base/dists/*` [(#11799)](https://github.com/stdlib-js/stdlib/pull/11799) _(by Philipp Burckhardt)_
 -   [`12c2cee`](https://github.com/stdlib-js/stdlib/commit/12c2cee21de81594436e583fc379339cf5ac89c1) - **bench:** refactor to use string interpolation in `stats/base/dists/chisquare` [(#10325)](https://github.com/stdlib-js/stdlib/pull/10325) _(by Vishal Gaikwad)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
